@@ -7,8 +7,8 @@ import ResultComponent from './components/ResultComponent';
 function App() {
   return (
     <div className="App">
-      {/* <HomeComponent/> */}
-      {/* <QuizComponent/> */}
+      <HomeComponent/>
+      <QuizComponent/>
       <ResultComponent/>
     </div>
   );

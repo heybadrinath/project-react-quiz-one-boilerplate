@@ -13,10 +13,11 @@ h3{
   width: 200px;
   border-radius: 20px;
   padding: 10px;
+  margin: 0px 40%;
 }
 
 .home{
-  margin-top: 130%;
+  margin: 3%;
   height: 100%;
 }
 
@@ -94,6 +95,7 @@ h1,.question{
   width: 40vw;
   height: 40vh;
   padding: 20px;
+  margin: auto;
 }
 
 h4{
